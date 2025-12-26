@@ -1,4 +1,4 @@
-#2c)c)Write a program to find the factorial of a given number.
+#2c)Write a program to find the factorial of a given number.
 def factorial(n):
     if n == 1 or n == 0:
         return 1
