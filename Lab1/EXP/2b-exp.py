@@ -1,0 +1,1 @@
+#b)Write a program to check if the string is a palindrome or not
