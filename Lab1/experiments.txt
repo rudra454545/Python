@@ -1,0 +1,9 @@
+Module 1
+Experiment 1- Python Basic
+Experiment 2- Variables, Datatypes, And Operators
+Experiment 3- Control System (If-Else,Loops) And FUnctions
+Module 2
+Experiment 4- List And Dictionary
+Experiment 5- Datastructure
+Experiment 6- File Handling And Exception Management
+Experiment 7- File Handling - Pickle Module
