@@ -1,0 +1,1 @@
+#4a) Create a list and perform the following methods:insert (), remove (), append (), len(), pop(), clear()
